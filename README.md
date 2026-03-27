@@ -1,5 +1,4 @@
 
-(https://github.com/user-attachments/files/26311841/README.md)
 <div align="center">
 
 ```
@@ -79,20 +78,20 @@ Proyects
 <tr>
 <td width="50%">
 
-### 🔐 [Proyecto 1 — Nombre]
+### 🔐 [Proyecto 1 — Portscanner
 **`Python · Security`**
 
-Breve descripción del proyecto. Qué problema resuelve, qué tecnologías usaste y cuál fue el impacto o aprendizaje obtenido.
+Script en Python que permite escanear puertos de una dirección IP para identificar cuáles se encuentran abiertos, simulando técnicas básicas utilizadas en ciberseguridad y redes.
 
 `automation` `scripting` `security`
 
 </td>
 <td width="50%">
 
-### 🛡️ [Proyecto 2 — Nombre]
+### 🛡️ [Proyecto 2 — Hashcracker
 **`Python · Networking`**
 
-Breve descripción del proyecto. Qué problema resuelve, qué tecnologías usaste y cuál fue el impacto o aprendizaje obtenido.
+Script en Python que implementa un ataque de diccionario para intentar descubrir contraseñas a partir de hashes SHA-256, simulando técnicas básicas utilizadas en ciberseguridad.
 
 `network` `analysis` `python`
 
