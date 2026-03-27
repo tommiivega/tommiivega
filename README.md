@@ -1,5 +1,5 @@
 
-[README.md](https://github.com/user-attachments/files/26311841/README.md)
+(https://github.com/user-attachments/files/26311841/README.md)
 <div align="center">
 
 ```
@@ -21,10 +21,10 @@
 
 ---
 
-## `$ cat about_me.txt`
+About me
 
 ```yaml
-name:         "[Tu Nombre]"
+name:         "Tomas Vega"
 location:     "Argentina 🇦🇷"
 education:    "Computer Science Student"
 focus:        "Cybersecurity"
@@ -45,7 +45,7 @@ currently:
 
 ---
 
-## `$ ls -la skills/`
+Skills
 
 <div align="center">
 
@@ -73,7 +73,7 @@ currently:
 
 ---
 
-## `$ cat projects/featured.log`
+Proyects
 
 <table>
 <tr>
@@ -101,22 +101,6 @@ Breve descripción del proyecto. Qué problema resuelve, qué tecnologías usast
 <tr>
 <td width="50%">
 
-### 📊 [Proyecto 3 — Nombre]
-**`Python · Data Analysis`**
-
-Breve descripción del proyecto. Qué problema resuelve, qué tecnologías usaste y cuál fue el impacto o aprendizaje obtenido.
-
-`data` `pandas` `automation`
-
-</td>
-<td width="50%">
-
-### 🔍 [Proyecto 4 — Nombre]
-**`Bash · Linux`**
-
-Breve descripción del proyecto. Qué problema resuelve, qué tecnologías usaste y cuál fue el impacto o aprendizaje obtenido.
-
-`bash` `linux` `tools`
 
 </td>
 </tr>
@@ -124,7 +108,7 @@ Breve descripción del proyecto. Qué problema resuelve, qué tecnologías usast
 
 ---
 
-## `$ github --stats`
+Github Stats
 
 <div align="center">
 
@@ -137,13 +121,12 @@ Breve descripción del proyecto. Qué problema resuelve, qué tecnologías usast
 
 ---
 
-## `$ ping -c 1 contact`
+Contact
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00D4FF)](https://linkedin.com/in/TU_USUARIO)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00D4FF)](mailto:tu@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00D4FF)](https://tu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00D4FF)](www.linkedin.com/in/tomas-fabricio-vega-018844264)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00D4FF)](mailto:tfvegam@gmail.com)
 
 <br/>
 
@@ -158,8 +141,4 @@ Breve descripción del proyecto. Qué problema resuelve, qué tecnologías usast
 
 ---
 
-<div align="center">
-<sub>
-<code>// The quieter you become, the more you are able to hear. — Kali Linux motto</code>
-</sub>
-</div>
+
