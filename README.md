@@ -131,7 +131,6 @@ Contact
 <br/>
 
 ```
-> Connection established. Ready to collaborate.
 > Status: Open to internships & junior roles in cybersecurity.
 ```
 
